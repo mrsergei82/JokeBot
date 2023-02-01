@@ -15,5 +15,5 @@ public class BotConfig {
 
     @Value("${telegram.botToken")
     String token;
-    
+
 }
